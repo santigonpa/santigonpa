@@ -4,8 +4,6 @@
   junior software developer · computer engineering student · functional programming enthusiast
 </p>
 
-<br>
-
 ## ── about me ──
 i'm a 23-year-old advanced student at **Universidad de la República** (Uruguay).  
 i have a strong background in computer science fundamentals and logic. currently working as a developer and shifting my focus towards the **Elixir** ecosystem.
