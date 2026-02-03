@@ -28,5 +28,5 @@ mongodb · scss
 
 ---
 <p align="center">
-  <a href="www.linkedin.com/in/santigonpa">linkedin</a>
+  <a href="https://www.linkedin.com/in/santigonpa" target="_blank">linkedin</a>
 </p>
