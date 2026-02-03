@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">hey there, i'm santiago 👋</h1>
 
-<!--
-**santigonpa/santigonpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  junior software developer · computer engineering student · functional programming enthusiast
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ── about me ──
+i'm a 23-year-old advanced student at **Universidad de la República** (Uruguay).  
+i have a strong background in computer science fundamentals and logic. currently working as a developer and shifting my focus towards the **Elixir** ecosystem.
+
+i enjoy clean architectures, functional paradigms, and understanding how systems work from the inside out.
+
+## ── current stack ──
+**core & backend** elixir · phoenix · liveview  
+ecto · sql
+
+**previous web experience** javascript · ember.js · express  
+mongodb · scss
+
+**academic & fundamentals** haskell · c/c++ · python · prolog  
+
+## ── what i'm up to ──
+* 🚀 **working** as a junior software developer.
+* 🌱 **deepening** my knowledge in phoenix liveview.
+* 🎓 **studying** advanced engineering methodologies.
+
+---
+<p align="center">
+  <a href="www.linkedin.com/in/santigonpa">linkedin</a>
+</p>
